@@ -6,7 +6,8 @@
 *.dex
 
 # Java class files
-*.class
+*.class 
+Bon ap utilisateur
 
 # Generated files
 bin/
